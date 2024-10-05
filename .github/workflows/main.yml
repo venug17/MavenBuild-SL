@@ -22,7 +22,7 @@ jobs:
           host: '65.1.149.88'
           user: 'labuser'
           pass: 'Nuvelabs123$'
-          port: 22
+          port: 3389
           connect_timeout: 10s
           first_ssh: |
              sudo chmod 777 /var/lib/tomcat9/webapps
